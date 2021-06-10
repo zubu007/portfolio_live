@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.476120d1.chunk.css",
+    "main.js": "/static/js/main.92f0c93c.chunk.js",
+    "main.js.map": "/static/js/main.92f0c93c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.34850e26.js",
+    "runtime-main.js.map": "/static/js/runtime-main.34850e26.js.map",
+    "static/js/2.01ed4f16.chunk.js": "/static/js/2.01ed4f16.chunk.js",
+    "static/js/2.01ed4f16.chunk.js.map": "/static/js/2.01ed4f16.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.476120d1.chunk.css.map": "/static/css/main.476120d1.chunk.css.map",
+    "static/js/2.01ed4f16.chunk.js.LICENSE.txt": "/static/js/2.01ed4f16.chunk.js.LICENSE.txt",
+    "static/media/Assignment01.8138046d.png": "/static/media/Assignment01.8138046d.png",
+    "static/media/NSU.70777c42.jpg": "/static/media/NSU.70777c42.jpg",
+    "static/media/ScreenShot.2cdb8346.JPG": "/static/media/ScreenShot.2cdb8346.JPG",
+    "static/media/Tinder_Clone.664a705a.JPG": "/static/media/Tinder_Clone.664a705a.JPG",
+    "static/media/about_picture.8aed7798.jpg": "/static/media/about_picture.8aed7798.jpg",
+    "static/media/back1.c484b0cb.png": "/static/media/back1.c484b0cb.png",
+    "static/media/face_detection.72d907c2.JPG": "/static/media/face_detection.72d907c2.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34850e26.js",
+    "static/js/2.01ed4f16.chunk.js",
+    "static/css/main.476120d1.chunk.css",
+    "static/js/main.92f0c93c.chunk.js"
+  ]
+}
