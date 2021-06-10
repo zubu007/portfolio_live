@@ -1,0 +1,49 @@
+.main-container-projects {
+    z-index: -1;
+    background-color: #336650;
+    position: relative;
+    margin-top: -75px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.skill-section {
+    
+    width: 70%;
+    margin-top: 180px;
+}
+
+.skill-section > h1 {
+    font-size: 50px;
+    color: #fff;
+}
+
+.skills {
+    color: #fff;
+}
+
+
+.skills > p {
+    font-size: 20px;
+}
+
+.project-section {
+    width: 70%;
+    color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 50px;
+}
+
+
+.project-section > h1 {
+    font-size: 50px;
+
+}
+
+.project-div {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}

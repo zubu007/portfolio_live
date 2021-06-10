@@ -1,0 +1,79 @@
+.main-container-home {
+    background-color: #04080F;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
+
+.main-text {
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    color: white;
+    z-index: 5;
+    
+}
+
+.main-text h1 {
+    font-size: 50px;   
+}
+
+
+
+.type {
+    color: rgb(226, 106, 106);
+    font-size: 30px;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -30px;
+}
+
+.social {
+    background-color: firebrick;
+    position: absolute;
+    bottom: 0px;
+    margin: 30px;
+    border-radius: 10px;
+    
+}
+
+.icon {
+    color: white;
+    font-size: 30px;
+    display: flex;
+    margin: 20px
+    
+}
+
+.back-logo-container {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 70%;
+    overflow: hidden;
+    height: 70%;
+}
+
+.back-logo {
+    width: 100%;
+    float: right;
+    position: relative;
+    height:auto;
+    margin-right:-20%; 
+}
+
+@media screen and (min-width: 960px) {
+    .main-text h1 {
+        font-size: 80px;   
+    }
+
+    .main-text {
+        top: 30%;
+        left: 20%;
+        
+        
+    }
+  }
+

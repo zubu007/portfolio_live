@@ -1,0 +1,33 @@
+.main-container-contacts {
+    z-index: -1;
+    background-color: #336650;
+    position: relative;
+    height: 100%;
+    margin-top: -75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.main-container-contacts > h1 {
+    color: white;
+    font-size: 100px;
+}
+
+.contact-container{
+    margin-top: 200px;
+    margin-bottom: 200px;
+    color: white;
+    width: 50%;
+}
+
+.contact-container > h1 {
+    
+    font-size: 60px;
+}
+
+.contact-p {
+    width: 500px;
+    font-size: 20px;
+}

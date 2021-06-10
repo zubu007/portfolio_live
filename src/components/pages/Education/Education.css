@@ -1,0 +1,24 @@
+.main-container {
+    background-color: #346751;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    margin-top: -75px;
+    z-index: -1;
+}
+
+
+.points-container {
+    width: 50%;
+    left: 50%;
+    position: absolute;
+    top: 200px;
+    z-index: 10;
+}
+
+.main-container > img {
+    position: absolute;
+    top: 30%;
+    width: 800px;
+    
+}

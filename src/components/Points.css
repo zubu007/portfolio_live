@@ -1,0 +1,21 @@
+.points > p {
+    color: #fff;
+    font-size: 20px;
+}
+
+.points > h1 {
+    font-size: 50px;
+    color: #fff;
+}
+
+.points > h3 {
+    margin-top: -20px;
+    font-size: 25px;
+    color: #ECDABA;
+}
+
+.points > h4 {
+    margin-top: -20px;
+    color: #fff;
+
+}
